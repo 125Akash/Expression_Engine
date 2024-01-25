@@ -2,6 +2,8 @@
 
 Expression Engine is a simple web application that allows users to dynamically create and manage expressions using a connector-based approach. Users can define expressions by specifying key-value pairs, operators, and scores. The submitted data is then displayed in JSON format on the screen.
 
+## LIVE - LINK -----      https://expresseng.netlify.app/
+
 ## Features
 
 - **Connector Type Option:** Users can choose a connector type (e.g., AND, OR) to define the relationship between different expressions.
@@ -38,7 +40,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/expression-engine.git
+   git clone https://github.com/125Akash/Expression_Engine.git
    ```
 
 2. Navigate to the project directory:
